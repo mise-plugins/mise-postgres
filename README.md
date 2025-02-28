@@ -55,7 +55,7 @@ libcurl4-openssl-dev uuid-dev icu-devtools libicu-dev
 ### Fedora
 
 ```sh
-sudo dnf install openssl-devel readline-devel zlib-devel libcurl-devel uuid-devel libuuid-devel
+sudo dnf install openssl-devel readline-devel zlib-devel libcurl-devel uuid-devel libuuid-devel perl-FindBin
 ```
 
 ### (open)SUSE
